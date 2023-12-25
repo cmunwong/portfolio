@@ -18,13 +18,13 @@ Tableau Profile: https://public.tableau.com/app/profile/sze.mun.wong
 # Power BI - Route Optimization
 - Challenge: To route a potential location with minimun transportation cost by choosing the most effective existing route.
 - Spatial Statistics: Haversine formula
-- Languages: *SQL, DAX*
+- Languages: SQL, DAX
 - Project: 
 
 # Powershell - Download transfer logs from SFTP
 * 
 
 # VBA - Daily Product Inventory
-* Challenge: To extract data from mulitiple files with similar layouts, format into one standard table, append the formatted table into Access database and export into XML files that connect to Power Platform with one-click.
-* Input files: Daily excel worksheets from 7 sites (3 different templates)
+* Challenge: To extract data from mulitiple files with similar layouts, format into one standardized table, append the formatted table into Access database, and export the Access database into a XML file that connect to Power Platform with one-click.
+* Input files: Daily excel worksheets from 7 sites (with 3 different layouts)
 * Project: 
