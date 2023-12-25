@@ -24,5 +24,5 @@ Tableau Profile: https://public.tableau.com/app/profile/sze.mun.wong
 * Skills: *Excel VBA and macros, Access database, Power BI dataflow*
 
 # Powershell - Transfer Logs Database
-* Challenge: To download transfer logs from the SFTP website, rename downloaded files and move them to the transfter log folder that connect to Power BI datasets,and use Power Query to remove duplicates for reporting.
+* Challenge: To download transfer logs from the SFTP website, rename downloaded files with specified date range and move them to the transfter log folder that connect to Power BI datasets,and use Power Query to remove duplicates for reporting.
 * Skills: *ETL (Extract, Transform and Load), deduplicate*
