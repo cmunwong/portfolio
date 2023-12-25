@@ -1,5 +1,6 @@
 # Data Engineer Portfolio
 Tableau Profile: https://public.tableau.com/app/profile/sze.mun.wong
+LinkedIn Profile: https://www.linkedin.com/in/sze-mun-wong
 
 # Python - BGS Engineering Analytics
 * Challenge: To predict vehicle trim and dealer listing price given the other twenty-six variables provided.
