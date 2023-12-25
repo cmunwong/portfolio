@@ -7,13 +7,13 @@ Tableau Profile: https://public.tableau.com/app/profile/sze.mun.wong
 * Libraries: pandas, numpy, matplotlib.pyplot, seaborn, sklearn
 * Project:
 
-# Java - Graphs and Shortest Paths:
+# Java - Graphs and Shortest Paths
 * Challenge: To develop a graph representation and use it to implement Dijkstra’s algorithm for finding shortest paths.
 * Packages: java.util, java.io
 * Collection and List interfaces: ArrayList, HashMap, HashSet, Stack
 * Project: 
 
-# Powershell - Download transfer logs from SFTP:
+# Powershell - Download transfer logs from SFTP
 * 
 
 # VBA/VBScipt - 
