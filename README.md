@@ -25,6 +25,6 @@ Tableau Profile: https://public.tableau.com/app/profile/sze.mun.wong
 * 
 
 # VBA - Daily Product Inventory
-* Challenge: To extract data from mulitiple files with similar layouts, format into one standardized table, append the formatted table into Access database, and export the Access database into a XML file that connect to Power Platform with one-click.
-* Input files: Daily excel worksheets from 7 sites (with 3 different layouts)
+* Challenge: To extract data from mulitiple excel files with similar layouts, format into one standardized table, append the formatted table into Access database, and export the Access database into a XML file that connect to Power Platform with one-click.
+* Input files: Daily Product Inventory worksheets from 7 sites, with 3 different layouts
 * Project: 
