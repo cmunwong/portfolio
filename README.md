@@ -16,7 +16,10 @@ Tableau Profile: https://public.tableau.com/app/profile/sze.mun.wong
 # Powershell - Download transfer logs from SFTP:
 * 
 
-# VBA 
+# VBA/VBScipt - 
 
 # Power BI - Route Optimization
-* Challenge: 
+* Challenge: To route a potential location with minimun transportation cost by choosing the most effective existing route.
+* Spatial Statistics: Haversine formula
+* Languages: SQL, DAX
+* Project: 
