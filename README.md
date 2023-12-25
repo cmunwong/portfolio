@@ -9,6 +9,6 @@ Tableau Profile: https://public.tableau.com/app/profile/sze.mun.wong
 
 # Java - Graphs and Shortest Paths:
 * Challenge: To develop a graph representation and use it to implement Dijkstra’s algorithm for finding shortest paths.
-* Package: java.util, java.io
+* Packages: java.util, java.io
 * Collection and List interfaces: ArrayList, HashMap, HashSet, Stack
 * Project: 
