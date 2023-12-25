@@ -1,4 +1,4 @@
-# Data Engineer Portfolio
+# Portfolio - Sze Mun Wong
 LinkedIn Profile: https://www.linkedin.com/in/sze-mun-wong
 
 Tableau Profile: https://public.tableau.com/app/profile/sze.mun.wong
