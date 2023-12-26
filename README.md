@@ -2,7 +2,7 @@
 Data Analyst - Healthcare Consulting | Greater Seattle Area | [LinkedIn Profile](https://www.linkedin.com/in/sze-mun-wong) | [Tableau Public](https://public.tableau.com/app/profile/sze.mun.wong)
   
 ### Python - BGS Engineering Analytics
-- Challenge: To predict vehicle trim and dealer listing price given the other twenty-six variables provided.
+- Challenge: To predict vehicle trim and dealer listing price using the information on used cars previously sold.
 - Machine learning models: *Lasso Regression, Ridge Regression, Elastic Net, Random Forest, Gradient Boosting Machines*
 - Libraries: *pandas, numpy, matplotlib.pyplot, seaborn, sklearn*
 - Python project: [BGS Engineering Analytics](https://github.com/cmunwong/BGS-Engineering-Analytics)
