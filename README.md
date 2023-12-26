@@ -20,7 +20,7 @@ Data Analyst - Healthcare Consulting | Greater Seattle Area | [LinkedIn Profile]
 - Project writeup: [Route Optimization](https://github.com/cmunwong/projects/blob/main/route_optimization_project.pdf)
 
 ### Visual Basic - Product Inventory Database
-- Overview: To extract data from mulitiple Excel files with similar layouts, format into one standardized table, append the formatted table into Access database, and export the access database into XML file that connect to Power BI dataflow with one-click.
+- Overview: To extract data from mulitiple Excel files with similar layouts, format into one standardized table, append the formatted table into Access database, and export the Access database into XML file that connect to Power BI dataflow with one-click.
 - Input files: Daily Product Inventory worksheets from 7 sites in 3 different templates
 - Appliations and Tools: *Excel VBA and macros, Access database, Power BI dataflow (data integration tool in Power BI service)*
 - VBA code: [Product Inventory](https://github.com/cmunwong/projects/blob/main/product_inventory_vba)
