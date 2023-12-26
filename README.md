@@ -16,7 +16,7 @@ Data Analyst - Healthcare Consulting | Greater Seattle Area | [LinkedIn Profile]
 ### Power BI - Route Optimization
 - Challenge: To choose the most effective route for a potential location based on two weeks service history. 
 - Spatial Statistics: *Haversine formula*
-- Languages: *SQL queries (SQL Server), DAX code in Power BI*
+- Languages: *SQL queries, DAX code in Power BI*
 - Project writeup: [Route Optimization](https://github.com/cmunwong/projects/blob/main/route_optimization_project.pdf)
 
 ### Visual Basic - Product Inventory Database
