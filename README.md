@@ -11,7 +11,7 @@
 - Challenge: To develop a graph representation and use it to implement Dijkstra’s algorithm for finding shortest paths.
 - Collection and List interfaces: *ArrayList, HashMap, HashSet, Stack*
 - Packages: *java.util, java.io*
-- Java project: [Graphs and Shortest Paths] 
+- Java project: [Graphs and Shortest Paths](https://github.com/cmunwong/Graphs-and-Shortest-Paths)
   
 ### Power BI - Route Optimization
 - Challenge: To choose the most effective route for a potential location based on two weeks service history. 
