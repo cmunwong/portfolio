@@ -1,5 +1,5 @@
 # Portfolio - Sze Mun Wong
-[LinkedIn Profile](https://www.linkedin.com/in/sze-mun-wong) | [Tableau Public](https://public.tableau.com/app/profile/sze.mun.wong)
+Data Analyst - Healthcare Consulting | Greater Seattle Area | [LinkedIn Profile](https://www.linkedin.com/in/sze-mun-wong) | [Tableau Public](https://public.tableau.com/app/profile/sze.mun.wong)
   
 ### Python - BGS Engineering Analytics
 - Challenge: To predict vehicle trim and dealer listing price given the other twenty-six variables provided.
