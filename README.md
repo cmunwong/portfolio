@@ -17,15 +17,15 @@
 - Challenge: To choose the most effective route for a potential location based on two weeks service history. 
 - Spatial Statistics: *Haversine formula*
 - Languages: *SQL queries (SQL Server), DAX code in Power BI*
-- Project writeup: [route_optimization_project](https://github.com/cmunwong/projects/blob/main/route_optimization_project.pdf)
+- Project writeup: [Route Optimization](https://github.com/cmunwong/projects/blob/main/route_optimization_project.pdf)
 
 ### Visual Basic - Product Inventory Database
 - Challenge: To extract data from mulitiple excel files with similar layouts, format into one standardized table, append the formatted table into access database, and export the access database into XML file that connect to Power Platform with one-click.
 - Input files: Daily Product Inventory worksheets from 7 sites in 3 different templates
 - Appliations and Tools: *Excel VBA and macros, Access database, Power BI dataflow (data integration tool in Power BI service)*
-- VBA code: [product_inventory_vba](https://github.com/cmunwong/projects/blob/main/product_inventory_vba)
+- VBA code: [Product Inventory](https://github.com/cmunwong/projects/blob/main/product_inventory_vba)
 
 ### PowerShell - Transfer Logs Database
 - Challenge: To download transfer logs from the SFTP website, rename downloaded files with specified date range, move them to the transfter log folder that connect to Power BI datasets, and use Power Query to remove duplicates for reporting.
 - Skills: *Business process automation, ETL (Extract, Transform and Load), deduplication*
-- PowerShell script: 
+- PowerShell script: [Transfer Logs](https://github.com/cmunwong/projects)
