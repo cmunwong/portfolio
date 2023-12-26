@@ -1,17 +1,17 @@
 # Portfolio - Sze Mun Wong
-[LinkedIn Profile](https://www.linkedin.com/in/sze-mun-wong)
- | 
-[Tableau Public](https://public.tableau.com/app/profile/sze.mun.wong)
+[LinkedIn Profile](https://www.linkedin.com/in/sze-mun-wong) | [Tableau Public](https://public.tableau.com/app/profile/sze.mun.wong)
   
 ### Python - BGS Engineering Analytics
 - Challenge: To predict vehicle trim and dealer listing price given the other twenty-six variables provided.
 - Machine learning models: *Lasso Regression, Ridge Regression, Elastic Net, Random Forest, Gradient Boosting Machines*
 - Libraries: *pandas, numpy, matplotlib.pyplot, seaborn, sklearn*
+- BGS Engineering Analytics project: 
 
 ### Java - Graphs and Shortest Paths
 - Challenge: To develop a graph representation and use it to implement Dijkstra’s algorithm for finding shortest paths.
 - Collection and List interfaces: *ArrayList, HashMap, HashSet, Stack*
 - Packages: *java.util, java.io*
+- Graphs and Shortest Paths project: 
   
 ### Power BI - Route Optimization
 - Challenge: To choose the most effective route for a potential location based on two weeks service history. 
