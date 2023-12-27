@@ -28,9 +28,9 @@ Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Public](h
 - Overview: To extract data from mulitiple Excel files with similar layouts, format into one standardized table, append the formatted table into Access database, and export the Access database into XML file that connects to Power BI dataflow with one-click.
 - Input files: Daily Product Inventory worksheets from 7 sites in 3 different templates
 - Appliations and Tools: *Excel VBA and macros, Access database, Power BI dataflow (data integration tool in Power BI service)*
-- VBA code: [Product Inventory VBA](https://github.com/cmunwong/projects/blob/main/product_inventory_vba)
+- VBA code: [Product Inventory vba](https://github.com/cmunwong/projects/blob/main/product_inventory_vba)
 
 ### PowerShell - Transfer Logs Database
 - Overview: To download transfer logs from the SFTP website, rename downloaded files with specified date range, move them to the transfter log folder that connects to Power BI datasets, and use Power Query to remove duplicates for reporting.
 - Skills: *Business process automation, ETL (Extract, Transform and Load), deduplication, data integration*
-- PowerShell script: [Transfer Logs PowerShell](https://github.com/cmunwong/projects/blob/main/transfer_logs_powershell)
+- PowerShell script: [Transfer Logs powershell](https://github.com/cmunwong/projects/blob/main/transfer_logs_powershell)
