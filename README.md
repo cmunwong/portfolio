@@ -1,4 +1,4 @@
-# Portfolio - Stella Sze Mun Wong
+# Portfolio - Sze Mun Wong
 Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Public](https://public.tableau.com/app/profile/sze.mun.wong)
 
 ### Skills:
