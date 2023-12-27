@@ -1,5 +1,5 @@
 # Portfolio - Sze Mun Wong
-Data Analyst - Healthcare Consulting | Greater Seattle Area | [LinkedIn Profile](https://www.linkedin.com/in/sze-mun-wong) | [Tableau Public](https://public.tableau.com/app/profile/sze.mun.wong)
+Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Public](https://public.tableau.com/app/profile/sze.mun.wong)
   
 ### Python - BGS Engineering Analytics
 - Overview: To predict vehicle trim and dealer listing price using the information on used cars previously sold.
