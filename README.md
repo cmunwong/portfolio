@@ -4,7 +4,7 @@ Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Public](h
 ### Skills:
 - Programming Languages: SQL, DAX, Visual Basic, PowerShell, MATLAB, R, Python, Java
 - Business Intelligence Tools: Salesforce, Power BI, Report Builder, Tableau
-- Microsoft Applications: SQL Server, Access, Excel, Outlook, Word, PowerPoint, SharePoint, Power Automate, Power Apps
+- MS Applications: Excel, Access, SQL Server, Outlook, Word, PowerPoint, SharePoint, Power Automate, Power Apps
   
 ### Python - BGS Engineering Analytics
 - Overview: To predict vehicle trim and dealer listing price using the information on used cars previously sold.
