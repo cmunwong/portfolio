@@ -28,4 +28,4 @@ Data Analyst - Healthcare Consulting | Greater Seattle Area | [LinkedIn Profile]
 ### PowerShell - Transfer Logs Database
 - Overview: To download transfer logs from the SFTP website, rename downloaded files with specified date range, move them to the transfter log folder that connects to Power BI datasets, and use Power Query to remove duplicates for reporting.
 - Skills: *Business process automation, ETL (Extract, Transform and Load), deduplication*
-- PowerShell script: [Transfer Logs](https://github.com/cmunwong/projects)
+- PowerShell script: [Transfer Logs](https://github.com/cmunwong/projects/blob/main/transfer_logs_powershell)
