@@ -1,4 +1,4 @@
-# Portfolio - Sze Mun Wong
+# Portfolio - Stella Wong
 Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Public](https://public.tableau.com/app/profile/sze.mun.wong)
   
 ### Python - BGS Engineering Analytics
