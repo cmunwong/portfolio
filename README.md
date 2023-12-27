@@ -2,7 +2,7 @@
 Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Public](https://public.tableau.com/app/profile/sze.mun.wong)
 
 ### Skills:
-- Programming Languages: SQL, DAX, Visual Basic, PowerShell, MATLAB, R, Python, Java
+- Programming Languages: SQL, DAX, Visual Basic, PowerShell, Java, Python, MATLAB, R
 - Business Intelligence Tools: Salesforce Administration, Power BI, Report Builder, Tableau
 - MS Applications: Excel, Access, SQL Server, Outlook, Word, PowerPoint, SharePoint, Power Automate, Power Apps
   
