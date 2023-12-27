@@ -1,8 +1,10 @@
 # Portfolio - Stella Wong
 Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Public](https://public.tableau.com/app/profile/sze.mun.wong)
 
-### Programming Languages:
-- SQL, VBA, DAX, MATLAB, R, Python, Java
+### Skills:
+- Programming Languages: SQL, DAX, Visual Basic, PowerShell, MATLAB, R, Python, Java
+- Business Intelligence Tools: Salesforce, Power BI, Report Builder, Tableau
+- Microsoft Applications: SQL Server, Access, Excel, Outlook, Word, PowerPoint, SharePoint, Power Automate, Power Apps
   
 ### Python - BGS Engineering Analytics
 - Overview: To predict vehicle trim and dealer listing price using the information on used cars previously sold.
