@@ -4,10 +4,10 @@ Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Public](h
 ### Skills:
 - Programming Languages: SQL, DAX, Visual Basic, PowerShell, Java, Python, MATLAB, R
 - Business Intelligence Tools: Salesforce Administration, Power BI, Report Builder, Tableau, Alteryx
-- MS Applications: Excel, Access, SQL Server, Outlook, Word, PowerPoint, SharePoint, Power Automate, Power Apps
+- Microsoft Applications: Excel, Access, SQL Server Management Studio, Power BI, Power Automate, Power Apps
   
 ### Python - BGS Engineering Analytics
-- Overview: To predict vehicle trim and dealer listing price using the information on used cars previously sold.
+- Overview: A data science project to predict vehicle trim and dealer listing price using the information on used cars previously sold.
 - Machine learning models: *Lasso Regression, Ridge Regression, Elastic Net, Random Forest, Gradient Boosting Machines*
 - Libraries: *pandas, numpy, matplotlib.pyplot, seaborn, sklearn*
 - [BGS Engineering Analytics project](https://github.com/cmunwong/BGS-Engineering-Analytics)
