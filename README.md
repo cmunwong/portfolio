@@ -14,7 +14,7 @@ Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Public](h
 
 ### Java - Graphs and Shortest Paths
 - Overview: To develop a graph representation and use it to implement Dijkstra’s algorithm for finding shortest paths.
-- Collection and List interfaces: *ArrayList, HashMap, HashSet, Stack*
+- Collection API and List interfaces: *ArrayList, HashMap, HashSet, Stack*
 - Packages: *java.util, java.io*
 - [Graphs and Shortest Paths project](https://github.com/cmunwong/Graphs-and-Shortest-Paths)
   
