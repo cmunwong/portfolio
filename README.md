@@ -31,6 +31,6 @@ Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Public](h
 - VBA code: [Product Inventory vba](https://github.com/cmunwong/projects/blob/main/product_inventory_vba)
 
 ### PowerShell - Transfer Logs Database
-- Overview: To download new transfer logs from the sFTP website, rename downloaded files with specified date range, move them into the transfer log folder, append new logs into SQL database and deduplicate with one-click.
+- Overview: To download new transfer logs from the sFTP website, rename downloaded files with specified date range, move them into the transfer log folder, append new logs into SQL database and deduplicate table with one-click.
 - Skills: *Business process automation, ETL (Extract, Transform and Load), deduplication, data integration*
 - PowerShell script: [Transfer Logs powershell](https://github.com/cmunwong/projects/blob/main/transfer_logs_powershell)
