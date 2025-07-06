@@ -1,9 +1,9 @@
 # Stella Wong - Portfolio
-Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Public](https://public.tableau.com/app/profile/sze.mun.wong)
+Senior Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Public](https://public.tableau.com/app/profile/sze.mun.wong)
 
 ### Skills:
 - Programming Languages: SQL, DAX, Visual Basic, PowerShell, Java, Python, MATLAB, R
-- Business Intelligence Tools: Salesforce Administration, Power BI, Report Builder, Tableau, Alteryx
+- Business Intelligence Tools: Tableau, Smartsheet, Power BI, Report Builder, Alteryx, Salesforce (Admin)
 - Microsoft Applications: Excel, Outlook, Word, PowerPoint, SharePoint, Access, SQL Server, Power BI, Power Apps, Power Automate
   
 ### Python - BGS Engineering Analytics
