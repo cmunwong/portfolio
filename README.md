@@ -2,9 +2,9 @@
 Senior Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Public](https://public.tableau.com/app/profile/sze.mun.wong)
 
 ### Skills:
-- Programming Languages: SQL, DAX, Visual Basic, PowerShell, Java, Python, MATLAB, R
-- Business Intelligence Tools: Tableau, Smartsheet, Power BI, Report Builder, Alteryx (Core-certified), Salesforce (Admin)
-- Microsoft Applications: Excel, Outlook, Word, PowerPoint, SharePoint, Access, SQL Server, Power BI, Power Apps, Power Automate
+- Programming & Scripting: SQL, DAX, VBA (Visual Basic), PowerShell, Python, R, Java, MATLAB
+- Data & BI Tools: Alteryx (Core Certified), Tableau, Power BI, Power BI Report Builder, Smartsheet, Salesforce (Administrator), Power Query
+- Microsoft Productivity Tools: Excel (advanced), Access, SharePoint, Power Automate, Power Apps
   
 ### Python - BGS Engineering Analytics
 - Overview: Developed a data science project to predict vehicle trim and dealer listing price using historical data from previously sold used cars.
