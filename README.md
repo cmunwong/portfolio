@@ -31,6 +31,6 @@ Senior Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Pu
 - VBA Script: [Product Inventory](https://github.com/cmunwong/projects/blob/main/product_inventory_vba)
 
 ### PowerShell - Transfer Logs
-- Overview: Built a PowerShell script to automate the download of new transfer logs from an SFTP site, rename files using a specified date range, organize them in the appropriate folder, and append them into a SQL database with deduplication—triggered by a single click.
+- Overview: Built a PowerShell script to automate the download of new transfer logs from an SFTP site, rename files using a specified date range, organize them in the appropriate folder, and append them into a SQL database with deduplication - triggered by a single click.
 - Skills: *Business process automation, ETL (Extract, Transform and Load), deduplication, data integration*
 - PowerShell Script: [Transfer Logs](https://github.com/cmunwong/projects/blob/main/transfer_logs_powershell)
