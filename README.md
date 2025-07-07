@@ -28,7 +28,7 @@ Senior Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Pu
 - Overview: Automated the extraction of data from multiple Excel files, standardized the format, appended it into an Access database, and exported the result to an XML file linked to a Power BI dataflow - all with one click.
 - Input Files: Daily Product Inventory worksheets from 7 sites in 3 different templates
 - Applications and Tools: *Excel VBA and macros, Access database, Power BI dataflow (Power BI Service integration tool)*
-- VBA Script: [Product Inventory](https://github.com/cmunwong/projects/blob/main/product_inventory_vba)
+- VBA Script: [Product Inventories](https://github.com/cmunwong/projects/blob/main/product_inventory_vba)
 
 ### PowerShell - Transfer Logs
 - Overview: Built a PowerShell script to automate the download of new transfer logs from an SFTP site, rename files using a specified date range, organize them in the appropriate folder, and append them into a SQL database with deduplication - triggered by a single click.
