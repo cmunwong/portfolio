@@ -25,7 +25,7 @@ Senior Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Pu
 - [Route Optimization project](https://github.com/cmunwong/projects/blob/main/route_optimization_tool.pdf)
 
 ### VBA - Product Inventory
-- Overview: Automated the extraction of data from multiple Excel files with inconsistent layouts, standardized the format, appended it into an Access database, and exported the result to an XML file linked to a Power BI dataflow - all with one click.
+- Overview: Automated the extraction of data from multiple Excel files, standardized the format, appended it into an Access database, and exported the result to an XML file linked to a Power BI dataflow - all with one click.
 - Input files: Daily Product Inventory worksheets from 7 sites in 3 different templates
 - Applications and Tools: *Excel VBA and macros, Access database, Power BI dataflow (Power BI Service integration tool)*
 - VBA code: [Product Inventory vba](https://github.com/cmunwong/projects/blob/main/product_inventory_vba)
