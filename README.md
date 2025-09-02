@@ -26,7 +26,7 @@ Senior Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Pu
 
 ### VBA - Product Inventories
 - Overview: Automated the extraction of data from multiple Excel files, standardized the format, appended it into an Access database, and exported the result to an XML file linked to a Power BI dataflow - all with one click.
-- Input Files: Daily Product Inventory excel worksheets from 7 sites in 3 different template formats
+- Input Files: Daily Product Inventory worksheets from 7 sites in 3 different template formats
 - Applications and Tools: *Excel VBA and macros, Access database, Power BI dataflow*
 - VBA Script: [Product Inventories](https://github.com/cmunwong/projects/blob/main/product_inventory_vba)
 
