@@ -2,7 +2,7 @@
 Senior Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Public](https://public.tableau.com/app/profile/sze.mun.wong)
 
 ### Skills:
-- Programming & Scripting: SQL, DAX, VBA (Visual Basic), PowerShell, Python, R, Java, MATLAB
+- Programming & Scripting: SQL, DAX, VBA, PowerShell, Python, R, Java, MATLAB
 - Data & BI Tools: Alteryx (Designer Core Certified), Tableau, Power BI, Smartsheet, Salesforce (Administrator), Power Query
 - Microsoft Productivity Tools: Excel (advanced), Access, SharePoint, Power Automate, Power Apps
   
@@ -27,7 +27,7 @@ Senior Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Pu
 ### VBA - Product Inventories
 - Overview: Automated the extraction of data from multiple Excel files, standardized the format, appended it into an Access database, and exported the result to an XML file linked to a Power BI dataflow - all with one click.
 - Input Files: Daily Product Inventory worksheets from 7 sites in 3 different templates
-- Applications and Tools: *Excel VBA and macros, Access database, Power BI dataflow (Power BI Service integration tool)*
+- Applications and Tools: *Excel VBA and macros, Access database, Power BI dataflow*
 - VBA Script: [Product Inventories](https://github.com/cmunwong/projects/blob/main/product_inventory_vba)
 
 ### PowerShell - Transfer Logs
