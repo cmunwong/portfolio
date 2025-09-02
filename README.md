@@ -21,12 +21,12 @@ Senior Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Pu
 ### Power BI - Route Optimization Tool
 - Overview: Designed a tool to identify the most effective route for a potential location based on two weeks of service history.
 - Spatial Statistics: *Haversine formula*
-- Languages: *SQL queries, DAX code in Power BI*
+- Languages: *SQL queries, DAX functions in Power BI*
 - Project: [Route Optimization Tool](https://github.com/cmunwong/projects/blob/main/route_optimization_tool.pdf)
 
 ### VBA - Product Inventories
 - Overview: Automated the extraction of data from multiple Excel files, standardized the format, appended it into an Access database, and exported the result to an XML file linked to a Power BI dataflow - all with one click.
-- Input Files: Daily Product Inventory worksheets from 7 sites in 3 different templates
+- Input Files: Daily Product Inventory excel worksheets from 7 sites in 3 different template formats
 - Applications and Tools: *Excel VBA and macros, Access database, Power BI dataflow*
 - VBA Script: [Product Inventories](https://github.com/cmunwong/projects/blob/main/product_inventory_vba)
 
