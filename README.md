@@ -4,7 +4,7 @@ Senior Data Analyst - Healthcare Consulting | Greater Seattle Area | [Tableau Pu
 ### Skills:
 - Programming & Scripting: SQL, DAX, VBA, PowerShell, Python, R, Java, MATLAB
 - Data & BI Tools: Alteryx (Designer Core Certified), Tableau, Power BI, Smartsheet, Salesforce (Administrator), Power Query
-- Microsoft Productivity Tools: Excel (advanced), Access, SharePoint, Power Automate, Power Apps
+- Microsoft Productivity Tools: Excel, Access, SharePoint, Power Automate, Power Apps
   
 ### Python - BGS Engineering Analytics
 - Overview: Developed a data science project to predict vehicle trim and dealer listing price using historical data from previously sold used cars.
